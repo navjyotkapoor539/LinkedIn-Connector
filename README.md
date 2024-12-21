@@ -1,5 +1,7 @@
 # LinkedIn Connection Automation Chrome Extension
 
+[![Watch the video](https://img.youtube.com/vi/QM8MFNB5ztE/maxresdefault.jpg)](https://www.youtube.com/watch?v=QM8MFNB5ztE)
+
 This Chrome extension automates the process of sending connection requests on LinkedIn. It targets the **"Grow your network"** page (`https://www.linkedin.com/mynetwork/grow/`) and adds a floating button that triggers the automation of sending connection requests to all visible profiles.
 
 ## Features
